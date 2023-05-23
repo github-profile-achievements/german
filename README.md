@@ -146,14 +146,14 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 
 ## Andere Symbole auf GitHub
 
-| Symbol | Titel | Wie bekomme ich ein? |
-|--------------------------------|---------------- ----------------|--------------------------------- -------------- ----------------------------------- -------------- ----------------------------------- --------------- -------------|
-| ![][gp-dark] ![][gp-light] | **Pro** | Verwenden Sie [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![][da-dark] ![][da-light] | **Diskussion beantwortet** | Ihre Antwort wurde in den Diskussionen | als richtig markiert
-| ![][dpm-dark] ![][dpm-light] | **Mitglied des Entwicklerprogramms** | Werden Sie registriertes Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![][sbbh-dark] ![][sbbh-light] | **Sicherheitsbug-Kopfgeldjäger** | Hat geholfen, Schwachstellen in [GitHub Security](https://bounty.github.com/) | zu finden
-| ![][gce-dark] ![][gce-light] | **GitHub Campus-Experte** | Teilnahme am [GitHub Campus-Programm](https://education.github.com/experts) |
-| ![][SAC-light] ![][SAC-dark] | **Sicherheitsberatungskredit** | Ihr Sicherheitshinweis wurde von der [GitHub Advisory Database](https://github.com/advisories) | übernommen
+| Symbol                         | Titel                                | Wie bekomme ich ein?                                                                                                                      |
+|--------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| ![][gp-dark] ![][gp-light]     | **Pro**                              | Verwenden Sie [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                      |
+| ![][da-dark] ![][da-light]     | **Diskussion beantwortet**           | Ihre Antwort wurde in den Diskussionen                                                                                                    | als richtig markiert
+| ![][dpm-dark] ![][dpm-light]   | **Mitglied des Entwicklerprogramms** | Werden Sie registriertes Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Sicherheitsbug-Kopfgeldjäger**     | Hat geholfen, Schwachstellen in [GitHub Security](https://bounty.github.com/)                                                             | zu finden
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus-Experte**            | Teilnahme am [GitHub Campus-Programm](https://education.github.com/experts)                                                               |
+| ![][SAC-light] ![][SAC-dark]   | **Sicherheitsberatungskredit**       | Ihr Sicherheitshinweis wurde von der [GitHub Advisory Database](https://github.com/advisories)                                            | übernommen
 
 <!-- Другие значки на GitHub -->
 [gp-dark]: https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only
