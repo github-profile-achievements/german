@@ -20,7 +20,7 @@ Sie können die Anzeige von Erfolgen in Ihrem Profil deaktivieren, indem Sie zu 
 |        ![Mars 2020 Contributor Achievement Badge][mars-2020]        | **Mitwirkender vom März 2020**     | Beitrag zu einem der Projektrepositorys <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Wird für mindestens einen Beitrag verliehen. *Kein Verdienen mehr.* |
 | ![GitHub Archive Program Achievement Badge 2020][arctic-code-vault] | **Arctic Code Vault-Mitwirkender** | Ihr Code wurde in das <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a> aufgenommen. Wird für mindestens einen Beitrag verliehen. *Kein Verdienen mehr.*                                   |
 
-<!-- Значки не имеющие градаций по уровням -->
+<!-- Symbole, die keine Abstufungen nach Ebenen haben -->
 [starstruck]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [quickdraw]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [pair-extraordinaire]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
@@ -57,56 +57,56 @@ muss mehrmals durchgeführt werden.
 
 Alle anderen Icons auf GitHub werden gegen eine einmalige Erfüllung der Bedingungen vergeben.
 
-<!-- Градации значков Starstruck -->
+<!-- Symbolabstufung Starstruck -->
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
 [ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
 [ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
 
-<!-- Ссылки на пользователей, получивших достижение Starstruck разных уровней -->
+<!-- Links zu Benutzern, die den Erfolg erhalten haben Starstruck -->
 [ss-16]: https://github.com/gomzyakov?achievement=starstruck&tab=achievements
-<!-- 128 stars - у кого есть? -->
-<!-- 512 stars - у кого есть? -->
+<!-- 128 stars - Wer hat? -->
+<!-- 512 stars - Wer hat? -->
 [ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
 
-<!-- Градации значков Pair Extraordinaire -->
+<!-- Symbolabstufung Pair Extraordinaire -->
 [pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
 [pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
 [pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
 
-<!-- Ссылки на пользователей, получивших достижение Pair Extraordinaire разных уровней -->
+<!-- Links zu Benutzern, die den Erfolg erhalten haben Pair Extraordinaire -->
 [pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
-<!-- 10 pull requests - у кого есть? --> 
-<!-- 24 pull requests - у кого есть? -->
+<!-- 10 pull requests - Wer hat? --> 
+<!-- 24 pull requests - Wer hat? -->
 [pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
 
-<!-- Градации значков Pull Shark -->
+<!-- Symbolabstufung Pull Shark -->
 [ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
 [ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
 [ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
 
-<!-- Ссылки на пользователей, получивших достижение Pull Shark разных уровней -->
+<!-- Links zu Benutzern, die den Erfolg erhalten haben Pull Shark -->
 [ps-2]: https://github.com/gomzyakov?tab=achievements&achievement=pull-shark
-<!-- 16 pull requests - у кого есть? --> 
-<!-- 128 pull requests - у кого есть? -->
+<!-- 16 pull requests - Wer hat? --> 
+<!-- 128 pull requests - Wer hat? -->
 [ps-1024]: https://github.com/ljharb?achievement=pull-shark&tab=achievements
 
-<!-- Градации значков Galaxy Brain -->
+<!-- Symbolabstufung Galaxy Brain -->
 [gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
 [gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
 [gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
 
-<!-- Ссылки на пользователей, получивших достижение Galaxy Brain разных уровней -->
+<!-- Links zu Benutzern, die den Erfolg erhalten haben Galaxy Brain -->
 [gb-2]: https://github.com/gomzyakov?tab=achievements&achievement=galaxy-brain
-<!-- 8 answers - у кого есть? --> 
-<!-- 16 answers - у кого есть? -->
+<!-- 8 answers - Wer hat? --> 
+<!-- 16 answers - Wer hat? -->
 [gb-32]: https://github.com/ljharb?achievement=galaxy-brain&tab=achievements
 
-<!-- Градации значков Heart On Your Sleeve -->
+<!-- Symbolabstufung Heart On Your Sleeve -->
 [hoys-bronze]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png
 [hoys-silver]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png
 [hoys-gold]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png
 
-<!-- Градации значков Open Sourcerer -->
+<!-- Symbolabstufung Open Sourcerer -->
 [os-bronze]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png
 [os-silver]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png
 [os-gold]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png
@@ -126,7 +126,7 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 | **Starstruck** | ![][s-default] | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
 | **Quickdraw**  | ![][q-default] | ![][q-light] | ![][q-light-medium] | ![][q-medium] | ![][q-medium-dark] | ![][q-dark] |
 
-<!-- Ссылки на зветовые вариации значков Starstruck -->
+<!-- Links zu Symbolfarbvarianten Starstruck -->
 [s-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
 [s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
@@ -134,7 +134,7 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 [s-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
 [s-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
 
-<!-- Ссылки на зветовые вариации значков Quickdraw -->
+<!-- Links zu Symbolfarbvarianten Quickdraw -->
 [q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
 [q-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
@@ -155,7 +155,7 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 | ![][gce-dark] ![][gce-light]   | **GitHub Campus-Experte**            | Teilnahme am [GitHub Campus-Programm](https://education.github.com/experts)                                                               |
 | ![][SAC-light] ![][SAC-dark]   | **Sicherheitsberatungskredit**       | Ihr Sicherheitshinweis wurde von der [GitHub Advisory Database](https://github.com/advisories)                                            | übernommen
 
-<!-- Другие значки на GitHub -->
+<!-- Weitere Icons auf GitHub -->
 [gp-dark]: https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only
 [gp-light]: https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only
 [da-dark]: https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only
