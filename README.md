@@ -6,7 +6,7 @@ Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das 
 
 |                               Symbol                                | Titel                              | Wie bekomme ich ein?                                                                                                                                                                                                                                                                     |
 | :-----------------------------------------------------------------: | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   ![Heart On Your Sleeve Achievement Badge][heart-on-your-sleeve]   | **Heart On Your Sleeve**           | Reagiere mit einem ❤️ auf etwas bei GitHub **(Wird getestet)**                                                                                                                                                                                                                            |
+|   ![Heart On Your Sleeve Achievement Badge][heart-on-your-sleeve]   | **Heart On Your Sleeve**           | Reagiere mit einem ❤️ auf etwas bei GitHub **(Wird getestet)**                                                                                                                                                                                                                           |
 |         ![Open Sourcerer Achievement Badge][open-sourcerer]         | **Open Sourcerer**                 | Sie haben PRs in mehreren öffentlichen Repositories zusammengeführt **(Wird getestet)**                                                                                                                                                                                                  |
 |             ![Starstruck Achievement Badge][starstruck]             | **Starstruck**                     | Das von Ihnen erstellte Repository muss **16 Sterne** (oder [mehr](#Badge-tiers)) haben.                                                                                                                                                                                                 |
 |              ![Quickdraw Achievement Badge][quickdraw]              | **Quickdraw**                      | Schließe ein Issue oder führe eine Pull-Anfrage innerhalb von **5 Minuten** zusammen.                                                                                                                                                                                                    |
@@ -39,20 +39,20 @@ Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das 
 Bei den meisten Abzeichen müssen Sie eine Aktion einmal ausführen, in manchen Fällen jedoch auch
 muss mehrmals durchgeführt werden.
 
-| Leistung                 |         Standard          |      Bronze      |      Silber       |         Golden         |
-| :----------------------- | :-----------------------: | :--------------: | :---------------: | :--------------------: |
-| **Starstruck**           |      ![][starstruck]      |  ![][ss-bronze]  |  ![][ss-silver]   |      ![][ss-gold]      |
-|                          |    [16 Sterne][ss-16]     |    128 Sterne    |    512 Sterne     | [4096 Sterne][ss-4096] |
-| **Pair Extraordinaire**  | ![][pair-extraordinaire]  |  ![][pe-bronze]  |  ![][pe-silver]   |      ![][pe-gold]      |
-|                          |        [1PR][pe-1]        | 10 Pull-Anfragen | 24 Pull-Anfragen  |     [48PR][pe-48]      |
-| **Pull Shark**           |      ![][pull-shark]      |  ![][ps-bronze]  |  ![][ps-silver]   |      ![][ps-gold]      |
-|                          |        [2PR][ps-2]        | 16 Pull-Anfragen | 128 Pull-Anfragen |   [1024PR][ps-1024]    |
-| **Galaxy Brain**         |     ![][galaxy-brain]     |  ![][gb-bronze]  |  ![][gb-silver]   |      ![][gb-gold]      |
-|                          |    [2 Antworten][gb-2]    |   8 Antworten    |   16 Antworten    | [32 Antworten][gb-32]  |
-| **Heart On Your Sleeve** | ![][heart-on-your-sleeve] | ![][hoys-bronze] | ![][hoys-silver]  |     ![][hoys-gold]     |
-|                          |            ???            |       ???        |        ???        |          ???           |
-| **Open Sourcerer**       |    ![][open-sourcerer]    |  ![][os-bronze]  |  ![][os-silver]   |      ![][os-gold]      |
-|                          |            ???            |       ???        |        ???        |          ???           |
+| Leistung                 |         Standard          |      Bronze      |      Silber       |            Golden             |
+| :----------------------- | :-----------------------: | :--------------: | :---------------: | :---------------------------: |
+| **Starstruck**           |      ![][starstruck]      |  ![][ss-bronze]  |  ![][ss-silver]   |         ![][ss-gold]          |
+|                          |    [16 Sterne][ss-16]     |    128 Sterne    |    512 Sterne     |    [4096 Sterne][ss-4096]     |
+| **Pair Extraordinaire**  | ![][pair-extraordinaire]  |  ![][pe-bronze]  |  ![][pe-silver]   |         ![][pe-gold]          |
+|                          |  [1 Pull-Anfrage][pe-1]   | 10 Pull-Anfragen | 24 Pull-Anfragen  |   [48 Pull-Anfragen][pe-48]   |
+| **Pull Shark**           |      ![][pull-shark]      |  ![][ps-bronze]  |  ![][ps-silver]   |         ![][ps-gold]          |
+|                          |  [2 Pull-Anfragen][ps-2]  | 16 Pull-Anfragen | 128 Pull-Anfragen | [1024 Pull-Anfragen][ps-1024] |
+| **Galaxy Brain**         |     ![][galaxy-brain]     |  ![][gb-bronze]  |  ![][gb-silver]   |         ![][gb-gold]          |
+|                          |    [2 Antworten][gb-2]    |   8 Antworten    |   16 Antworten    |     [32 Antworten][gb-32]     |
+| **Heart On Your Sleeve** | ![][heart-on-your-sleeve] | ![][hoys-bronze] | ![][hoys-silver]  |        ![][hoys-gold]         |
+|                          |            ???            |       ???        |        ???        |              ???              |
+| **Open Sourcerer**       |    ![][open-sourcerer]    |  ![][os-bronze]  |  ![][os-silver]   |         ![][os-gold]          |
+|                          |            ???            |       ???        |        ???        |              ???              |
 
 Alle anderen Icons auf GitHub werden gegen eine einmalige Erfüllung der Bedingungen vergeben.
 
@@ -193,4 +193,4 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 
 ## Habt ihr ein paar Ideen?
 
-Wenn Sie Fragen oder Vorschläge zur Verbesserung der Informationen auf dieser Seite haben, können Sie jederzeit ein [Issues](https://github.com/github-profile-achievements/german/issues) verfassen.
+Wenn Sie Fragen oder Vorschläge zur Verbesserung der Informationen auf dieser Seite haben, können Sie jederzeit ein [Issue](https://github.com/github-profile-achievements/german/issues) verfassen.
