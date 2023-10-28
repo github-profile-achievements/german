@@ -39,7 +39,7 @@ Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das 
 Bei den meisten Abzeichen müssen Sie eine Aktion einmal ausführen, in manchen Fällen jedoch auch
 muss mehrmals durchgeführt werden.
 
-| Leistung                 |         Standard          |      Bronze      |      Silber       |            Golden             |
+| Leistung                 |         Standard          |      Bronze      |      Silber       |             Gold              |
 | :----------------------- | :-----------------------: | :--------------: | :---------------: | :---------------------------: |
 | **Starstruck**           |      ![][starstruck]      |  ![][ss-bronze]  |  ![][ss-silver]   |         ![][ss-gold]          |
 |                          |    [16 Sterne][ss-16]     |    128 Sterne    |    512 Sterne     |    [4096 Sterne][ss-4096]     |
