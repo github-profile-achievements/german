@@ -1,6 +1,6 @@
 # Vollständige Liste aller Abzeichen und Erfolge auf GitHub
 
-Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das anzeigen von Erfolgen in Ihren [Profileinstellungen](https://github.com/settings) manuell deaktivieren.
+Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, Sie können das Anzeigen von Erfolgen in Ihren [Profileinstellungen](https://github.com/settings) manuell deaktivieren.
 
 <br>
 
@@ -8,11 +8,11 @@ Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das 
 | :-----------------------------------------------------------------: | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   ![Heart On Your Sleeve Achievement Badge][heart-on-your-sleeve]   | **Heart On Your Sleeve**           | Reagiere mit einem ❤️ auf etwas bei GitHub **(Wird getestet)**                                                                                                                                                                                                                           |
 |         ![Open Sourcerer Achievement Badge][open-sourcerer]         | **Open Sourcerer**                 | Sie haben PRs in mehreren öffentlichen Repositories zusammengeführt **(Wird getestet)**                                                                                                                                                                                                  |
-|             ![Starstruck Achievement Badge][starstruck]             | **Starstruck**                     | Das von Ihnen erstellte Repository muss **16 Sterne** (oder [mehr](#Badge-tiers)) haben.                                                                                                                                                                                                 |
+|             ![Starstruck Achievement Badge][starstruck]             | **Starstruck**                     | Das von Ihnen erstellte Repository hat **16 Sterne** (oder [mehr](#Badge-tiers)).                                                                                                                                                                                                 |
 |              ![Quickdraw Achievement Badge][quickdraw]              | **Quickdraw**                      | Schließe ein Issue oder führe eine Pull-Anfrage innerhalb von **5 Minuten** zusammen.                                                                                                                                                                                                    |
 |    ![Pair Extraordinaire Achievement Badge][pair-extraordinaire]    | **Pair Extraordinaire**            | Eine (oder [mehrere](#Badge-tiers)) Pull-Anfragen, die Sie [gemeinsam mit anderen Entwicklern](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) erstellt haben, wurden zusammengeführt. |
-|             ![Pull Shark Achievement Badge][pull-shark]             | **Pull Shark**                     | Zwei (oder [mehr](#Badge-tiers)) von Ihnen geöffnete „Pull-Requests“ wurden akzeptiert (zusammengeführt).                                                                                                                                                                                |
-|           ![Galaxy Brain Achievement Badge][galaxy-brain]           | **Galaxy Brain**                   | Der Autor der Diskussion hat zwei (oder [mehr](#Badge-tiers)) Ihrer Antworten akzeptiert (durch Klicken auf „Als Antwort markieren“).                                                                                                                                                    |
+|             ![Pull Shark Achievement Badge][pull-shark]             | **Pull Shark**                     | Zwei (oder [mehr](#Badge-tiers)) von Ihnen geöffnete "Pull-Requests“ wurden akzeptiert (zusammengeführt).                                                                                                                                                                                |
+|           ![Galaxy Brain Achievement Badge][galaxy-brain]           | **Galaxy Brain**                   | Der Autor der Diskussion hat zwei (oder [mehr](#Badge-tiers)) Ihrer Antworten akzeptiert (durch Klicken auf "Als Antwort markieren“).                                                                                                                                                    |
 |                  ![YOLO-Leistungsabzeichen][yolo]                   | **YOLO**                           | Wird ausgegeben, wenn mindestens einer Ihrer Pull-Anfragen ohne Kommentare angenommen wurde (Sie haben keinen einzigen Thread geschrieben und die Änderungen zusammengeführt).                                                                                                           |
 |     ![Öffentliches Sponsor-Leistungsabzeichen][public-sponsor]      | **Öffentlicher Sponsor**           | Wird ausgegeben, wenn Sie mindestens einmal ein Opensorce-Projekt oder einen Entwickler auf GitHub gesponsert haben.                                                                                                                                                                    |
 |        ![Mars 2020 Contributor Achievement Badge][mars-2020]        | **Mitwirkender vom März 2020**     | Beitrag zu einem der Projektrepositorys [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). Wird für mindestens einen Beitrag verliehen. _Nicht mehr verfügbar_                                                                                |
@@ -36,8 +36,7 @@ Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, sie können das 
 
 ## Abstufung einiger Erfolge
 
-Bei den meisten Abzeichen müssen Sie eine Aktion einmal ausführen, in manchen Fällen jedoch auch
-muss mehrmals durchgeführt werden.
+Bei den meisten Abzeichen müssen Sie eine Aktion einmal ausführen, in manchen Fällen jedoch auch mehrmals.
 
 | Leistung                 |         Standard          |      Bronze      |      Silber       |             Gold              |
 | :----------------------- | :-----------------------: | :--------------: | :---------------: | :---------------------------: |
@@ -167,12 +166,12 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 
 | Symbol                         | Titel                                | Wie bekomme ich es?                                                                                                                       |
 | ------------------------------ | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][gp-dark] ![][gp-light]     | **Pro**                              | Verwenden Sie [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                      |
+| ![][gp-dark] ![][gp-light]     | **Pro**                              | Sie verwenden [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                      |
 | ![][da-dark] ![][da-light]     | **Diskussion beantwortet**           | Ihre Antwort wurde in einer Diskussionen als richtig markiert                                                                             |
-| ![][dpm-dark] ![][dpm-light]   | **Mitglied des Entwicklerprogramms** | Werden ein registriertes Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![][sbbh-dark] ![][sbbh-light] | **Sicherheitsbug-Kopfgeldjäger**     | Hat geholfen, Schwachstellen in [GitHub Security](https://bounty.github.com/) zu finden                                                   |
-| ![][gce-dark] ![][gce-light]   | **GitHub Campus-Experte**            | Teilnahme am [GitHub Campus-Programm](https://education.github.com/experts)                                                               |
-| ![][SAC-light] ![][SAC-dark]   | **Sicherheitsberatungskredit**       | Ihr Sicherheitshinweis wurde in die [GitHub Advisory Database](https://github.com/advisories) übernommen                                  |
+| ![][dpm-dark] ![][dpm-light]   | **Mitglied des Entwicklerprogramms** | Sie sind ein registriertes Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Sicherheitsbug-Kopfgeldjäger**     | Sie haben geholfen, Schwachstellen in [GitHub Security](https://bounty.github.com/) zu finden                                                   |
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus-Experte**            | Sie haben am [GitHub Campus-Programm](https://education.github.com/experts) teilgenommen                                                               |
+| ![][SAC-light] ![][SAC-dark]   | **Sicherheitsberatungskredit**       | Ihr Sicherheitshinweis wurde in die [GitHub Advisory Database](https://github.com/advisories) aufgenommen                                  |
 
 <!-- Weitere Icons auf GitHub -->
 
