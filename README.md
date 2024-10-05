@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
+ 
 # Vollständige Liste aller Abzeichen und Erfolge auf GitHub
 
 Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, Sie können das Anzeigen von Erfolgen in Ihren [Profileinstellungen](https://github.com/settings) manuell deaktivieren.
